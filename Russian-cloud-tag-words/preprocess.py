@@ -27,4 +27,4 @@ def preprocess_text(text):
 xxx = open('../text.txt').read()
 g = preprocess_text(xxx)
 g
-# f= open("../input/text2.txt","w+").write(g)
+# f= open("../text2.txt","w+").write(g)
