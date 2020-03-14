@@ -12,4 +12,4 @@
 
 ### 5.Result in output.png
 
-![alt text](https://miro.medium.com/max/3740/1*cpvJNkzt_ezdO3qcdokcMw.jpeg "Output image")
+![alt text](https://github.com/Sokolkk/Russian-cloud-tag-words/blob/master/output.png "Output image")
