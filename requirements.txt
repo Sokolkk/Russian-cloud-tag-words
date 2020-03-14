@@ -1,0 +1,2 @@
+#install requirements from pip
+pip install numpy matplotlib pillow wordcloud nltk imageio jieba snownlp pymystem3 itchat -i https://pypi.tuna.tsinghua.edu.cn/simple
