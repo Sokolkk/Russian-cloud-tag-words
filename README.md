@@ -1,9 +1,8 @@
 # Russian-cloud-tag-words
 
-### 1.I take russian transcription from this sad video https://www.youtube.com/watch?v=AoJABFAsPrA you can use any russian text
-<a href="https://www.youtube.com/watch?v=AoJABFAsPrA
-" target="_blank"><img src="http://img.youtube.com/vi/AoJABFAsPrA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+### 1.I take russian transcription from this video where Putin want to be President of Russia forever, but you can use any russian text
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/AoJABFAsPrA/0.jpg)](http://www.youtube.com/watch?v=AoJABFAsPrA)
+
 
 ### 2.Preprocess text file in preprocess.py
 
@@ -13,4 +12,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### 5.Result in output.png
 
-![alt text](https://github.com/Sokolkk/Russian-cloud-tag-words/blob/master/output.png "Output image")
+![alt text](https://miro.medium.com/max/3740/1*cpvJNkzt_ezdO3qcdokcMw.jpeg "Output image")
